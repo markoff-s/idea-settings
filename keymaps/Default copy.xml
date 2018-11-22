@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="CheckinProject" />
   <action id="ChooseRunConfiguration" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -12,6 +13,10 @@
   </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
   </action>
   <action id="Refresh" />
   <action id="Rerun" />
