@@ -14,6 +14,7 @@
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
@@ -22,6 +23,10 @@
   <action id="Rerun" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="u" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -39,4 +44,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="UsageView.Rerun" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
 </keymap>
