@@ -15,6 +15,7 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="m" />
   </action>
+  <action id="Diff.NextChange" />
   <action id="EditorScrollToCenter" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -39,7 +40,7 @@
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -53,6 +54,7 @@
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
