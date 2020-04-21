@@ -25,11 +25,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="o" />
   </action>
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-    <keyboard-shortcut first-keystroke="ctrl equals" />
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="n" />
-  </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -44,6 +39,11 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="alt end" />
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -69,6 +69,9 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift f5" />
