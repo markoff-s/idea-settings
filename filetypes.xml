@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="misc-commands" type="PLAIN_TEXT" />
-      <mapping ext="graphqls" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
