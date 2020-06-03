@@ -47,6 +47,10 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
