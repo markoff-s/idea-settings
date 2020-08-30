@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="useProjectFrame" value="true" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="6aa370ff:1731688d47b:-8000" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>
