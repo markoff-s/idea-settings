@@ -4,16 +4,10 @@
       <entry key="ChangesView">
         <PlaceSettings />
       </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings />
-      </entry>
-      <entry key="Default">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings />
-      </entry>
     </option>
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
   <component name="SvnDiffSettings">
     <option name="PLACES_MAP">
